@@ -1,11 +1,9 @@
 ---
 title: "About me"
-permalink: /about/
+permalink: /
 excerpt: "About me"
 author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 A brief(est) description about who Arnab is:
 * science nerd attempting to understand biology and chemistry
