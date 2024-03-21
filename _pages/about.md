@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Cody, a third year medical student at the University of Minnesota. In my free time I enjoy landscape photography, road cycling, Japanese variety shows, and messing around with computers. My current fixes are:
+A brief(est) description about who Arnab is:
 
 * science nerd attempting to understand biology and chemistry
 * currently working as a project scientst at IIT Delhi
