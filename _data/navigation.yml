@@ -2,10 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research"
+  - title: "Research Interests"
     url: /research/
-  - title: "Experience"
-    url: /experience/
   - title: "Photograph"
     url: /photograph/
   - title: "Blog"
