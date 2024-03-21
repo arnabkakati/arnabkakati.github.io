@@ -8,12 +8,11 @@ redirect_from:
 ---
 A brief(est) description about who Arnab is: <br>
 <ul>
-  <li>science nerd attempting to bind biology and chemistry in a computational matrimony
-  <li>currently working as a project scientst at IIT Delhi
-  <li>graduated with a master's in biotechnology (spec. in genetic engineering)
-  <li>reads fiction in the day, browses reddit at night (listens to Zayn in b/w)
-  <li>quite interested in discussing technology and philosophy (w/ a cup of tea)
-</ul>
+  <li><small>science nerd attempting to bind biology and chemistry in a computational matrimony
+  <li><small>currently working as a project scientst at IIT Delhi
+  <li><small>graduated with a master's in biotechnology (spec. in genetic engineering)
+  <li><small>reads fiction in the day, browses reddit at night (listens to Zayn in b/w)
+  <li><small>quite interested in discussing technology and philosophy (w/ a cup of tea) 
 
 <h2>Educational Background</h2>
 <b>Master of Science in Biotechnology (2021-23)</b> <br>
