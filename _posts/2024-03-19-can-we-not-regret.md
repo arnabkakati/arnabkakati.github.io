@@ -5,12 +5,11 @@ date: 2024-03-19
 last_modified_at: 2024-03-19
 tags:
   - Thoughts of mine
-excerpt: "A song to listen to while you read this"
 header:
   overlay_image: /images/2024-03-19-can-we-not-regret.jpg
   overlay_filter: 0.5
   actions:
-    - label: "Listen"
+    - label: "Listen to while you read"
       url: "https://open.spotify.com/track/6f8cT6qJ1KqqVXjx0xRJBt?si=6894c0ac693941d3"
   teaser: /images/2024-03-19-can-we-not-regret.jpg
 ---
