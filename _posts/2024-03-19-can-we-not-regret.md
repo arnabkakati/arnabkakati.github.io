@@ -4,11 +4,12 @@ author_profile: false
 date: 2024-03-19
 tags:
   - Thoughts of mine
+excerpt: "Click the link below to listen to a song while you read it"
 header:
   overlay_image: /images/2024-03-19-can-we-not-regret.jpg
   overlay_filter: 0.5
   actions:
-    - label: "a spotify link"
+    - label: "Spotify link"
       url: "https://open.spotify.com/track/6f8cT6qJ1KqqVXjx0xRJBt?si=6894c0ac693941d3"
   teaser: /images/2024-03-19-can-we-not-regret.jpg
 ---
