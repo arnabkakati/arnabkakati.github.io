@@ -1,8 +1,7 @@
 ---
 title: "About me"
 permalink: /
-excerpt: "About me"
-author_profile: false
+author_profile: true
 
 ---
 A brief(est) description about who Arnab is:
