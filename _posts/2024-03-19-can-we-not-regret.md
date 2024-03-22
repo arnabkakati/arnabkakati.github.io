@@ -7,7 +7,7 @@ tags:
   - Thoughts of mine
 header:
   image: /images/2024-03-19-can-we-not-regret.jpg
-  teaser: /images/2024-03-19-can-we-not-regret.jpg
+  teaser: /images/pic2.png
 ---
 <style> .aligncenter {text-align: center;} </style>
 <style> body {text-align: justify} </style> <!-- Justify text. -->
