@@ -7,6 +7,7 @@ tags:
   - Thoughts of mine
 header:
   overlay_image: /images/2024-03-19-can-we-not-regret.jpg
+  overlay_filter: 0.5
   teaser: /images/2024-03-19-can-we-not-regret.jpg
 ---
 <style> .aligncenter {text-align: center;} </style>
