@@ -5,9 +5,10 @@ date: 2024-03-19
 last_modified_at: 2024-03-19
 tags:
   - Thoughts of mine
+excerpt: "Can we not regret?"
 header:
-  image: /images/2024-03-19-can-we-not-regret.jpg
-  teaser: /images/pic2.png
+  overlay_image: /images/2024-03-19-can-we-not-regret.jpg
+  teaser: /images/2024-03-19-can-we-not-regret.jpg
 ---
 <style> .aligncenter {text-align: center;} </style>
 <style> body {text-align: justify} </style> <!-- Justify text. -->
