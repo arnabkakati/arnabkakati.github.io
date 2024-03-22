@@ -6,10 +6,10 @@ author_profile: true
 ---
 <br>
 A brief(est) description about who Arnab is:
-* (not a) science nerd attempting to understand the fundamentals of life
+* (not a) science nerd attempting to understand the molecular fundamentals of life
 * currently working as a project scientst at IIT Delhi
-* graduated with a master's in biotechnology (spec. in genetic engineering)
-* reads fiction in the day, browses reddit at night (listens to Zayn in b/w)
+* graduated with a master's degree in biotechnology (spec. in genetic engineering)
+* reads fiction in the day, browses reddit at night (and listens to Zayn in between)
 * quite interested in discussing histroy, technology and philosophy (w/ a cup of tea)
 
 ## Educational background
