@@ -41,7 +41,7 @@ I was selected for the Young Scientist Program of BMSIS to work on a bioinformat
 <img src="/images/logo_rgcb.png"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#2B547E">**DBT-Rajiv Gandhi Centre for Biotechnology, Kerala, India [October 2023]**</span> <br>
+    align="left"> <span style="color:#2B547E">**DBT-Rajiv Gandhi Centre for Biotechnology, Kerala, India [October 2022]**</span> <br>
     <span style="color:#2B547E"> Intern | Neurobiology Program | Supervisor: Dr. Moinak Banerjee </span> <br>
 
 I identified the SNPs that are involved in the onset of complex diseases like Autism Spectral Disorders (ASD) after meticulous analysis of Next Generation Sequencing data.
