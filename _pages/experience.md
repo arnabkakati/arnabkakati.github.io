@@ -21,7 +21,7 @@ Here, I am assessing Dexter energy transfer (DET) in microtubules using qunatum-
     width="50"
     hspace="20"
     align="left"> <span style="color:#2B547E">**DBT-Rajiv Gandhi Centre for Biotechnology, Kerala, India [March 2023 - July 2023]**</span> <br> 
-    <span style="color:#2B547E"> MSc Dissertation Trainee | Cancer Research Program | Supervisor: Dr. Ananda Mukherjee </span> <br>
+    <span style="color:#2B547E"> MSc Dissertation | Cancer Research Program | Supervisor: Dr. Ananda Mukherjee </span> <br>
 
 My master's dissertation project focused on elucidating the domain-specific role of PTEN tumor suppressor gene in modulating the UV-induced nucleotide excision repair (NER) pathway.
 <br><br>
@@ -30,7 +30,7 @@ My master's dissertation project focused on elucidating the domain-specific role
     width="50"
     hspace="20"
     align="left"> <span style="color:#2B547E">**Blue Marble Space Institute of Science, Washington, USA [June 2021 - August 2021]**</span> <br>
-    <span style="color:#2B547E"> Research Associate | University of Maryland School of Medicine | Supervisor: Dr. Shiladitya DasSarma </span> <br>
+    <span style="color:#2B547E"> Research Associate | University of Maryland | Supervisor: Dr. Shiladitya DasSarma </span> <br>
 
 I was selected for the Young Scientist Program of BMSIS to work on a bioinformatics project to validate the purple earth hypothesis via phylogenetic analysis of the photopigment retinal, and check its emergence across other domains of life as well.
 <br><br>
@@ -42,7 +42,7 @@ I was selected for the Young Scientist Program of BMSIS to work on a bioinformat
     width="50"
     hspace="20"
     align="left"> <span style="color:#2B547E">**DBT-Rajiv Gandhi Centre for Biotechnology, Kerala, India [October 2023]**</span> <br>
-    <span style="color:#2B547E"> Intern | Human Molecular Genetics Lab, Neurobiology Program | Supervisor: Dr. Moinak Banerjee </span> <br>
+    <span style="color:#2B547E"> Intern | Neurobiology Program | Supervisor: Dr. Moinak Banerjee </span> <br>
 
 I identified the SNPs that are involved in the onset of complex diseases like Autism Spectral Disorders (ASD) after meticulous analysis of Next Generation Sequencing data.
 <br><br>
