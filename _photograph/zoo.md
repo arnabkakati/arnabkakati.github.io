@@ -1,18 +1,18 @@
 ---
 title: "Delhi Zoo"
 header:
-  teaser: /images/photograph/zoo/monkey.jpg
+  teaser: /assets/photograph/zoo/monkey.jpeg
 photo1:
-  - url: /images/photograph/zoo/langoor.jpg
-    image_path: /images/photograph/zoo/langoor.jpg
+  - url: /assets/photograph/zoo/langoor.jpeg
+    image_path: /images/photograph/zoo/langoor.jpeg
     alt: "Langoor"
 photo2:
-  - url: /images/photograph/zoo/cow.jpg
-    image_path: /images/photograph/zoo/cow.jpg
+  - url: /assets/photograph/zoo/cow.jpeg
+    image_path: /images/photograph/zoo/cow.jpeg
     alt: "A (very) old cow"
 photo3:
-  - url: /images/photograph/zoo/deer.jpg
-    image_path: /images/photograph/zoo/deer.jpg
+  - url: /assets/photograph/zoo/deer.jpeg
+    image_path: /images/photograph/zoo/deer.jpeg
     alt: "A baby dear (deer)"
 
 ---
