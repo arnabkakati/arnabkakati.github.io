@@ -12,9 +12,9 @@ author_profile: false
     width="50"
     hspace="20"
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [November 2023 - Present]**</span> <br>
-    <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Prof. Aarat Kalra </span> <br>
+    <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat Kalra </span> <br>
 
-Here, I am assessing Dexter energy transfer (DET) in microtubules using qunatum-level Gaussian calculations and aim to further validate the computational findings with experimental approaches (using phosphorescence lifetime measurements).
+Here, I am assessing Dexter energy transfer (DET) in microtubules using qunatum-level Gaussian calculations and aim to further validate the computational findings using experimental approaches (using phosphorescence lifetime measurements).
 <br><br>
 
 <img src="/images/logo_rgcb.png"
