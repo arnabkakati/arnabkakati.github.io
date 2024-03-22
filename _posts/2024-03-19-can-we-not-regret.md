@@ -1,5 +1,6 @@
 ---
 title: "Can we not regret?"
+author_profile: false
 date: 2024-03-19
 last_modified_at: 2024-03-19
 tags:
