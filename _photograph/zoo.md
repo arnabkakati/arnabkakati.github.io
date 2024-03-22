@@ -18,7 +18,7 @@ gallery3:
 ---
 Some clicks from my visit to the National Zoo in New Delhi, India.
 
-{% include gallery id="gallery1" caption="An excited langoor" width="720" %}
+{% include gallery id="gallery1" caption="An excited langoor" width="50%" height="50%" %}
 
 {% include gallery id="gallery2" caption="A (very) old cow" %}
 
