@@ -8,7 +8,7 @@ header:
   overlay_image: /images/2024-03-19-can-we-not-regret.jpg
   overlay_filter: 0.5
   actions:
-    - label: "A spotify link"
+    - label: "a spotify link"
       url: "https://open.spotify.com/track/6f8cT6qJ1KqqVXjx0xRJBt?si=6894c0ac693941d3"
   teaser: /images/2024-03-19-can-we-not-regret.jpg
 ---
