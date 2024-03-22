@@ -4,15 +4,15 @@ header:
   teaser: /assets/photograph/zoo/monkey.jpeg
 gallery1:
   - url: /assets/photograph/zoo/langoor.jpeg
-    image_path: /images/photograph/zoo/langoor.jpeg
+    image_path: /assets/photograph/zoo/langoor.jpeg
     alt: "Langoor"
 gallery2:
   - url: /assets/photograph/zoo/cow.jpeg
-    image_path: /images/photograph/zoo/cow.jpeg
+    image_path: /assets/photograph/zoo/cow.jpeg
     alt: "A (very) old cow"
 gallery3:
   - url: /assets/photograph/zoo/deer.jpeg
-    image_path: /images/photograph/zoo/deer.jpeg
+    image_path: /assets/photograph/zoo/deer.jpeg
     alt: "A baby dear (deer)"
 
 ---
