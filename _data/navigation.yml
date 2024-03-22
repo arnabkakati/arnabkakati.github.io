@@ -2,9 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research Interests"
+  - title: "Research Interest"
     url: /research/
-  - title: "Photograph"
+  - title: "Experience"
+    url: /experience/
+  - title: "Through lens"
     url: /photograph/
   - title: "Blog"
     url: /blog/
