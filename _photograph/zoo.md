@@ -1,7 +1,7 @@
 ---
 title: "Delhi Zoo"
 header:
-  header: /assets/photograph/zoo/monkey.jpeg
+  image: /assets/photograph/zoo/monkey.jpeg
   teaser: /assets/photograph/zoo/monkey.jpeg
 gallery1:
   - url: /assets/photograph/zoo/langoor.jpeg
