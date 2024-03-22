@@ -12,9 +12,14 @@ A brief(est) description about who Arnab is:
 * reads fiction in the day, browses reddit at night (listens to Zayn in b/w)
 * quite interested in discussing histroy, technology and philosophy (w/ a cup of tea)
 
-<h2>Educational Background</h2>
-<h4>Master of Science in Biotechnology (2021-23)</h4>
+## Educational background
+### Master of Science in Biotechnology (2021-23)
 DBT-Rajiv Gandhi Centre for Biotechnology
-<h4>Bachelor of Science in Microbiology (2018-21)</h4>
-Bhaskaracharya College of Applied Sciences, University of Delhi
+### Bachelor of Science in Microbiology (2018-21)
+Bhaskaracharya College of Applied Sciences, University of Delhi <br>
+
+### Keywords
+------
+Science, Technology, Blogs <br> <br>
+<img style="width:400px;" src="images/logos.png" alt="Institute_Logos" class="inline"/>
 
