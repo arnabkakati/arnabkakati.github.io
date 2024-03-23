@@ -5,7 +5,7 @@ date: 2024-03-19
 tags:
   - Thoughts of mine
 header:
-  overlay_image: /assets/posts/teaser-can-we-not-regret.jpg
+  overlay_image: /assets/posts/overlay-can-we-not-regret.jpg
   overlay_filter: 0.5
   actions:
     - label: "a song"
