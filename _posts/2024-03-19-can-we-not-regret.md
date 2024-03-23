@@ -5,12 +5,12 @@ date: 2024-03-19
 tags:
   - Thoughts of mine
 header:
-  overlay_image: /images/2024-03-19-can-we-not-regret.jpg
+  overlay_image: /assets/posts/image-can-we-not-regret.jpg
   overlay_filter: 0.5
   actions:
     - label: "a song"
       url: "https://open.spotify.com/track/6f8cT6qJ1KqqVXjx0xRJBt?si=6894c0ac693941d3"
-  teaser: /images/2024-03-19-can-we-not-regret.jpg
+  teaser: /assets/posts/teaser-can-we-not-regret.jpg
 ---
 <style> .aligncenter {text-align: center;} </style>
 <style> body {text-align: justify} </style> <!-- Justify text. -->
