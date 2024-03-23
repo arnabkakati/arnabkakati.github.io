@@ -3,10 +3,10 @@ title: "Can we not regret?"
 author_profile: false
 date: 2024-03-19
 tags:
-  - Thoughts of mine
+  - Mindless thoughts
 header:
-  overlay_image: /assets/posts/overlay-can-we-not-regret.jpg
-  overlay_filter: 0.5
+  overlay_image: /assets/posts/teaser-can-we-not-regret.jpg
+  overlay_filter: 0.7
   actions:
     - label: "a song"
       url: "https://open.spotify.com/track/6f8cT6qJ1KqqVXjx0xRJBt?si=6894c0ac693941d3"
