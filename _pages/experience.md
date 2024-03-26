@@ -6,7 +6,6 @@ author_profile: false
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ## Research Experiences
-------
 
 <img src="/images/logo_iitd.png"
     width="50"
@@ -36,7 +35,6 @@ I was selected for the Young Scientist Program of BMSIS to work on a bioinformat
 <br><br>
 
 ## Internship Experiences
-------
 
 <img src="/images/logo_rgcb.png"
     width="50"
