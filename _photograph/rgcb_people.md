@@ -1,7 +1,7 @@
 ---
 title: "RGCB - The People"
 header:
-  teaser: /assets/photograph/rgcb_people/1.jpg
+  teaser: /assets/photograph/rgcb_people/teaser.jpg
 gallery1:
   - url: /assets/photograph/rgcb_people/1.jpg
     image_path: /assets/photograph/rgcb_people/1.jpg
