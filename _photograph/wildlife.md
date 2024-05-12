@@ -1,5 +1,5 @@
 ---
-title: "IIT Delhi - The Campus"
+title: "Wildlife Photography"
 header:
   teaser: /assets/photograph/wildlife/1.jpg
 gallery1:
