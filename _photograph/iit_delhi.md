@@ -1,7 +1,7 @@
 ---
 title: "IIT Delhi - The Campus"
 header:
-  teaser: /assets/photograph/iit_delhi/1.jpeg
+  teaser: /assets/photograph/iit_delhi/teaser.jpg
 gallery1:
   - url: /assets/photograph/iit_delhi/1.jpeg
     image_path: /assets/photograph/iit_delhi/1.jpeg
