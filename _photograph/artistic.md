@@ -1,5 +1,5 @@
 ---
-title: "Artistic Ventures"
+title: "Artistic - The Sketches"
 header:
   teaser: /assets/photograph/artistic/teaser.jpg
 gallery1:
@@ -29,7 +29,7 @@ gallery2:
     alt: "Coming soon.."
     title: "Coming soon.."
 ---
-Not just a hobby..
+Not just a hobby.. Instead a way to venture out to a world unknown to the knowns
 
 {% include gallery id="gallery1" %}
 
