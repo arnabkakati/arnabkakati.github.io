@@ -20,7 +20,7 @@ gallery2:
     image_path: /assets/photograph/rgcb_people/4.jpg
     alt: "With Dr. Debasree Dutta, ex-MSc Coordinator"
     title: "With Dr. Debasree Dutta, ex-MSc Coordinator"
-  - url: /assets/photograph/rgcb_people/5.jpg
+  - url: /assets/photograph/rgcb_people/5.jpeg
     image_path: /assets/photograph/rgcb_people/5.jpeg
     alt: "With Dr. KB Harikumar after his lecture on the Applications of RNA interference"
     title: "With Dr. KB Harikumar after his lecture on the Applications of RNA interference"
