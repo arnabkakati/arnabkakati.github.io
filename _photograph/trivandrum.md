@@ -1,7 +1,7 @@
 ---
 title: "Trivandrum - A City"
 header:
-  teaser: /assets/photograph/trivandrum/1.jpg
+  teaser: /assets/photograph/trivandrum/teaser.jpg
 gallery1:
   - url: /assets/photograph/trivandrum/1.jpg
     image_path: /assets/photograph/trivandrum/1.jpg
