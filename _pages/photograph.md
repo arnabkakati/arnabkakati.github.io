@@ -1,5 +1,5 @@
 ---
-title: "Photograph"
+title: "Photographs"
 layout: collection
 permalink: /photograph/
 collection: photograph
