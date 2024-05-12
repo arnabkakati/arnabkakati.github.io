@@ -1,7 +1,7 @@
 ---
 title: "Artistic Ventures"
 header:
-  teaser: /assets/photograph/artistic/teaser.jpeg
+  teaser: /assets/photograph/artistic/teaser.jpg
 gallery1:
   - url: /assets/photograph/artistic/1.jpg
     image_path: /assets/photograph/artistic/1.jpg
