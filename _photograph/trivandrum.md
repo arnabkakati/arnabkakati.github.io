@@ -21,7 +21,7 @@ gallery2:
     alt: "A view from Ponmudi Hills"
     title: "A view from Ponmudi Hills"
   - url: /assets/photograph/trivandrum/5.jpg
-    image_path: /assets/photograph/trivandrum/5.jpeg
+    image_path: /assets/photograph/trivandrum/5.jpg
     alt: "At the Jawaharlal Nehru Tropical Botanic Garden & Research Institute (TBGRI)"
     title: "At the Jawaharlal Nehru Tropical Botanic Garden & Research Institute (TBGRI)"
   - url: /assets/photograph/trivandrum/6.jpg
@@ -33,8 +33,8 @@ gallery3:
     image_path: /assets/photograph/trivandrum/7.jpg
     alt: "Sunset at the Varkala Beach"
     title: "Sunset at the Varkala Beach"
-  - url: /assets/photograph/trivandrum/8.jpg
-    image_path: /assets/photograph/trivandrum/8.jpg
+  - url: /assets/photograph/trivandrum/8.jpeg
+    image_path: /assets/photograph/trivandrum/8.jpeg
     alt: "Sunset at the Kovalam Beach"
     title: "Sunset at the Kovalam Beach"
   - url: /assets/photograph/trivandrum/9.jpg
