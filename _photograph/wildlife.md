@@ -1,7 +1,7 @@
 ---
-title: "Wildlife Photography"
+title: "Wildlife - Photography"
 header:
-  teaser: /assets/photograph/wildlife/1.jpg
+  teaser: /assets/photograph/wildlife/teaser.jpg
 gallery1:
   - url: /assets/photograph/wildlife/1.jpg
     image_path: /assets/photograph/wildlife/1.jpg
