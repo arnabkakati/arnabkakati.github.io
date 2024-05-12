@@ -1,5 +1,5 @@
 ---
-title: "Trivandrum - The Capital City of Kerala"
+title: "Trivandrum - A City"
 header:
   teaser: /assets/photograph/trivandrum/1.jpg
 gallery1:
