@@ -55,7 +55,7 @@ gallery4:
     alt: "The friend of RGCB with her child"
     title: "The friend of RGCB with her child"
 ---
-Photographs displaying different aesthetics of Rajiv Gandhi Centre for Biotechnology (RGCB).
+Photographs displaying different aesthetics of RGCB, Kerala.
 
 {% include gallery id="gallery1" %}
 
