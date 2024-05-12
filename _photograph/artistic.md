@@ -29,7 +29,7 @@ gallery2:
     alt: "Coming soon.."
     title: "Coming soon.."
 ---
-Not just a hobby.. Instead a way to venture out to a world unknown to the knowns
+Not a hobby.. Instead a way to venture out into a world unknown to the knowns
 
 {% include gallery id="gallery1" %}
 
