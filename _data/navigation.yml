@@ -1,10 +1,9 @@
 # main links
 main:
-  - title: "Research Interest"
+  - title: "Research Interests"
     url: /research/
-  - title: "Experience"
+  - title: "Experiences"
     url: /experience/
-  - title: "Snapstory"
+  - title: "Photographs"
     url: /photograph/
-  - title: "Blog Post"
-    url: /blog/
+
