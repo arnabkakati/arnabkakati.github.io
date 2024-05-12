@@ -55,7 +55,7 @@ gallery4:
     alt: "The friend of RGCB with her child"
     title: "The friend of RGCB with her child"
 ---
-Some clicks from my visit to the National Zoo in New Delhi, India.
+Photographs displaying different aesthetics of Rajiv Gandhi Centre for Biotechnology (RGCB).
 
 {% include gallery id="gallery1" %}
 
