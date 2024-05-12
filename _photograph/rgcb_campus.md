@@ -1,7 +1,7 @@
 ---
 title: "RGCB - The Campus"
 header:
-  teaser: /assets/photograph/rgcb_campus/1.jpg
+  teaser: /assets/photograph/rgcb_campus/teaser.jpg
 gallery1:
   - url: /assets/photograph/rgcb_campus/1.jpg
     image_path: /assets/photograph/rgcb_campus/1.jpg
