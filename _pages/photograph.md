@@ -8,4 +8,4 @@ entries_layout: grid
 classes: wide
 ---
 
-A repository of photographs! (Ft. Ed Sheeran)
+A few clicks (some by me and some of mine).
