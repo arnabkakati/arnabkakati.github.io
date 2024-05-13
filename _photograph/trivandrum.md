@@ -42,7 +42,7 @@ gallery3:
     alt: "Evening skyline at Trivandrum"
     title: "Evening skyline at Trivandrum"
 ---
-Finite landscapes from the capital city of God's own country.
+Landscapes from the capital city of God's own country.
 
 {% include gallery id="gallery1" %}
 
