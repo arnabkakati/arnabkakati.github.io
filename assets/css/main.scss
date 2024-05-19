@@ -28,6 +28,8 @@ $h-size-6: 1em !default;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+@import "vendor/font-awesome/fontawesome";
+
 
 html {
     font-size: $type-size-5; // change to whatever
