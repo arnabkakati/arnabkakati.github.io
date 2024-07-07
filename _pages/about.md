@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 <br>
-A brief(est) description about who Arnab is:
+A brief(est) description about me:
 * (not a) science nerd attempting to understand the molecular fundamentals of life
 * currently working as a project scientst at IIT Delhi
 * graduated with a master's degree in biotechnology (spec. in genetic engineering)
@@ -13,9 +13,9 @@ A brief(est) description about who Arnab is:
 * quite interested in discussing history, technology and philosophy (w/ a cup of tea)
 
 ## Educational background
-### MS Biotechnology (spec. in Genetic Engineering) [2021-23]
+### MS, Biotechnology (spec. in Genetic Engineering) [2021-23]
 BRIC-Rajiv Gandhi Centre for Biotechnology
-### BS (hons) Microbiology [2018-21]
+### BS (hons), Microbiology [2018-21]
 Bhaskaracharya College of Applied Sciences, University of Delhi <br> <br>
 
 ## Keywords
