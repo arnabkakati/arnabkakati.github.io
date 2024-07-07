@@ -11,7 +11,7 @@ author_profile: false
     width="50"
     hspace="20"
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [November 2023 - July 2024]**</span> <br>
-    <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat Kalra </span> <br>
+    <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat P. Kalra </span> <br>
 
 I worked on a computational project that aimed at investigating triplet-state electronic energy migration in cytoskeletal protein polymers (including microtubules and actin filaments) via the principles of Dexter Energy Transfer (DET).
 <br><br>
