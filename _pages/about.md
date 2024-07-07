@@ -13,9 +13,9 @@ A brief(est) description about who Arnab is:
 * quite interested in discussing history, technology and philosophy (w/ a cup of tea)
 
 ## Educational background
-### MS in Biotechnology (spec. in Genetic Engineering) [2021-23]
+### MS Biotechnology (spec. in Genetic Engineering) [2021-23]
 BRIC-Rajiv Gandhi Centre for Biotechnology
-### BS (hons) in Microbiology [2018-21]
+### BS (hons) Microbiology [2018-21]
 Bhaskaracharya College of Applied Sciences, University of Delhi <br> <br>
 
 ## Keywords
