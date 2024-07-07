@@ -13,7 +13,7 @@ author_profile: false
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [November 2023 - July 2024]**</span> <br>
     <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat Kalra </span> <br>
 
-Here, I am assessing Dexter energy transfer (DET) in microtubules using qunatum-level Gaussian calculations and aim to further validate the computational findings using experimental approaches (using phosphorescence lifetime measurements).
+I worked on a computational project that aimed at investigating triplet-state electronic energy migration in cytoskeletal protein polymers via the principles of Dexter Energy Transfer (DET).
 <br><br>
 
 <img src="/images/logo_rgcb.png"
