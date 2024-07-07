@@ -14,7 +14,7 @@ A brief(est) description about who Arnab is:
 
 ## Educational background
 ### MS in Biotechnology (spec. in Genetic Engineering) [2021-23]
-DBT-Rajiv Gandhi Centre for Biotechnology
+BRIC-Rajiv Gandhi Centre for Biotechnology
 ### BS (hons) in Microbiology [2018-21]
 Bhaskaracharya College of Applied Sciences, University of Delhi <br> <br>
 
