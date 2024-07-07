@@ -18,9 +18,6 @@ BRIC-Rajiv Gandhi Centre for Biotechnology
 ### BS (hons), Microbiology [2018-21]
 Bhaskaracharya College of Applied Sciences, University of Delhi <br> <br>
 
-## Keywords
-Science, Technology <br> <br> <br>
-
 <hr>
 <img style="width:400px;" src="/images/logos.png" alt="Institute_Logos" class="inline"/>
 
