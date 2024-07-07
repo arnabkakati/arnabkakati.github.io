@@ -13,7 +13,7 @@ author_profile: false
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [November 2023 - July 2024]**</span> <br>
     <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat Kalra </span> <br>
 
-I worked on a computational project that aimed at investigating triplet-state electronic energy migration in cytoskeletal protein polymers via the principles of Dexter Energy Transfer (DET).
+I worked on a computational project that aimed at investigating triplet-state electronic energy migration in cytoskeletal protein polymers (including microtubules and actin filaments) via the principles of Dexter Energy Transfer (DET).
 <br><br>
 
 <img src="/images/logo_rgcb.png"
@@ -31,7 +31,7 @@ My master's dissertation project focused on elucidating the domain-specific role
     align="left"> <span style="color:#2B547E">**Blue Marble Space Institute of Science, Washington, USA [June 2021 - August 2021]**</span> <br>
     <span style="color:#2B547E"> Research Associate | University of Maryland | Supervisor: Dr. Shiladitya DasSarma </span> <br>
 
-I was selected for the Young Scientist Program of BMSIS to work on a bioinformatics project to validate the purple earth hypothesis via phylogenetic analysis of the photopigment retinal, and check its emergence across other domains of life as well.
+I was selected for the Young Scientist Program of BMSIS to work on a bioinformatics project to validate the purple earth hypothesis thorugh phylogenetic analysis of the photopigment retinal, and check its emergence across other domains of life as well.
 <br><br>
 
 ## Internship Experiences
