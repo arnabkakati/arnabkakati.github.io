@@ -19,8 +19,8 @@ I worked on a computational project that aimed at investigating triplet-state el
 <img src="/images/logo_rgcb.png"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#2B547E">**DBT-Rajiv Gandhi Centre for Biotechnology, Kerala, India [March 2023 - July 2023]**</span> <br> 
-    <span style="color:#2B547E"> MSc Dissertation | Cancer Research Program | Supervisor: Dr. Ananda Mukherjee </span> <br>
+    align="left"> <span style="color:#2B547E">**BRIC-Rajiv Gandhi Centre for Biotechnology, Kerala, India [March 2023 - July 2023]**</span> <br> 
+    <span style="color:#2B547E"> Master's Dissertation Scholar | Cancer Research Program | Supervisor: Dr. Ananda Mukherjee </span> <br>
 
 My master's dissertation project focused on elucidating the domain-specific role of PTEN tumor suppressor gene in modulating the UV-induced nucleotide excision repair (NER) pathway.
 <br><br>
