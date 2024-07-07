@@ -42,7 +42,7 @@ I was selected for the Young Scientist Program of BMSIS to work on a bioinformat
     align="left"> <span style="color:#2B547E">**DBT-Rajiv Gandhi Centre for Biotechnology, Kerala, India [October 2022]**</span> <br>
     <span style="color:#2B547E"> Intern | Neurobiology Program | Supervisor: Dr. Moinak Banerjee </span> <br>
 
-I identified the SNPs that are involved in the onset of complex diseases like Autism Spectral Disorders (ASD) after meticulous analysis of Next Generation Sequencing data.
+Throughout the course of this brief internsip, I learnt how to use definite computational tools and bioinformatics pipelines to identify single nucleotide polymorphisms (SNPs) from next-generation sequencing (NGS) data that are involved in the onset of complex diseases like Autism Spectral Disorder (ASD).
 <br><br>
 
 <img src="/images/logo_bbci.png"
@@ -51,5 +51,5 @@ I identified the SNPs that are involved in the onset of complex diseases like Au
     align="left"> <span style="color:#2B547E">**Dr. Bhubaneswar Borooah Cancer Institute, Assam, India [June 2019 - July 2019]**</span> <br>
     <span style="color:#2B547E"> Intern | Department of Microbiology | Supervisor: Dr. Rashmisnata Barman </span> <br>
 
-I conducted microbiological and biochemical assays to detect pathogenic microbes in patient’s urine and blood samples. I have also processed tissue sections for histological and microscopic analysis using the principles of immunohistochemistry (IHC).
+As a laboratory intern, I conducted microbiological and biochemical assays to detect pathogenic microbes in patient’s urine and blood samples. I have also processed tissue sections for histological and microscopic analysis using the principles of immunohistochemistry (IHC).
 <br>
