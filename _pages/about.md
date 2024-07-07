@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 <br>
-A brief(est) description about me:
+A brief(est) description about who I am:
 * (not a) science nerd attempting to understand the molecular fundamentals of life
 * currently working as a project scientst at IIT Delhi
 * graduated with a master's degree in biotechnology (spec. in genetic engineering)
