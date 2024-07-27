@@ -7,7 +7,7 @@ author_profile: false
 
 ## Research Experiences
 
-<img src="/images/logo_iitd.png"
+<img src="/images/logo-iitd-new.png"
     width="50"
     hspace="20"
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [November 2023 - July 2024]**</span> <br>
