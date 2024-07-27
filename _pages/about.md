@@ -19,5 +19,5 @@ BRIC-Rajiv Gandhi Centre for Biotechnology
 Bhaskaracharya College of Applied Sciences, University of Delhi <br> <br>
 
 <hr>
-<img style="width:400px;" src="/images/logos.png" alt="Institute_Logos" class="inline"/>
+<img style="width:400px;" src="/images/logo-new.png" alt="Institute_Logos" class="inline"/>
 
