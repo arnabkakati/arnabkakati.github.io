@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 A brief(est) description about who I am:
-* (not a) science nerd attempting to understand the molecular fundamentals of life
+* (not a) science nerd attempting to understand the molecular basis of life and diseases
 * previously worked as a project scientist at IIT-Delhi and research associate at BMSIS
 * graduated with a master's degree in biotechnology (spec. in genetic engineering)
 * reads fiction in the day, browses reddit at night (and listens to Zayn in between)
