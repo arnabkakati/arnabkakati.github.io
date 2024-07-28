@@ -21,5 +21,5 @@ Bhaskaracharya College of Applied Sciences <br>
 University of Delhi, India <br> <br> <br>
 
 <hr>
-<img style="width:400px;" src="/images/logos.png" alt="Institute_Logos" class="inline"/>
+<img style="width:600px;" src="/images/logos-new2.png" alt="Institute_Logos" class="inline"/>
 
