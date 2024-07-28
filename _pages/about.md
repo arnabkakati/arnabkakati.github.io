@@ -7,15 +7,16 @@ author_profile: true
 <br>
 A brief(est) description about who I am:
 * (not a) science nerd attempting to understand the molecular fundamentals of life
-* currently working as a project scientst at IIT Delhi
+* previously worked as a project scientist at IIT-Delhi and research associate at BMSIS
 * graduated with a master's degree in biotechnology (spec. in genetic engineering)
 * reads fiction in the day, browses reddit at night (and listens to Zayn in between)
 * quite interested in discussing history, technology and philosophy (w/ a cup of tea)
 
 ## Educational background
-### MS, Biotechnology (spec. in Genetic Engineering) [2021-23]
+### MSc Biotechnology (spec. in Genetic Engineering) [2021-23]
 BRIC-Rajiv Gandhi Centre for Biotechnology
-### BS (hons), Microbiology [2018-21]
+Degree awarded by BRIC-Regional Centre for Biotechnology
+### BSc (hons) Microbiology [2018-21]
 Bhaskaracharya College of Applied Sciences, University of Delhi <br> <br>
 
 <hr>
