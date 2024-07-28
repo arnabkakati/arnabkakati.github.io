@@ -14,7 +14,7 @@ A brief(est) description about who I am:
 
 ## Educational background
 ### MSc Biotechnology (spec. in Genetic Engineering) [2021-23]
-BRIC-Rajiv Gandhi Centre for Biotechnology
+BRIC-Rajiv Gandhi Centre for Biotechnology <br>
 Degree awarded by BRIC-Regional Centre for Biotechnology
 ### BSc (hons) Microbiology [2018-21]
 Bhaskaracharya College of Applied Sciences, University of Delhi <br> <br>
