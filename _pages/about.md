@@ -15,7 +15,7 @@ A brief(est) description about who I am:
 
 ## Educational background
 ### PhD Medical Biophysics [2024 -- Present]
-Temerty Faculty of Medicine <br>
+Department of Medical Biophysics, Temerty Faculty of Medicine <br>
 Univeristy of Toronto, Canada
 ### MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23]
 BRIC-Rajiv Gandhi Centre for Biotechnology <br>
