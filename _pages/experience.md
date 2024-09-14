@@ -13,16 +13,16 @@ author_profile: false
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [Nov 2023 -- Jul 2024]**</span> <br>
     <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat P. Kalra </span> <br>
 
-I worked on a computational project that aimed at investigating triplet-state electronic energy migration in cytoskeletal protein polymers (including microtubules and actin filaments) via the principles of Dexter Energy Transfer (DET).
+Here, I worked on a computational project to study triplet-state electronic energy migration in cytoskeletal protein polymers (microtubules, actin and intermediate filaments) via short-range Dexter Energy Transfer (DET).
 <br><br>
 
 <img src="/images/logo_rgcb.png"
     width="50"
     hspace="20"
     align="left"> <span style="color:#2B547E">**BRIC-Rajiv Gandhi Centre for Biotechnology, India [Mar 2023 -- Jul 2023]**</span> <br> 
-    <span style="color:#2B547E"> Master's Research Scholar | Cancer Research Program | Supervisor: Dr. Ananda Mukherjee </span> <br>
+    <span style="color:#2B547E"> Master's Student | Cancer Research Program | Supervisor: Dr. Ananda Mukherjee </span> <br>
 
-My master's dissertation project focused on elucidating the domain-specific role of PTEN tumor suppressor gene in modulating the UV-induced nucleotide excision repair (NER) pathway.
+For my master's dissertation thesis, I investigated the domain-specific role of PTEN tumor suppressor gene in modulating the UV-induced nucleotide excision repair (NER) pathway.
 <br><br>
 
 <img src="/images/logo_bmsis.png"
