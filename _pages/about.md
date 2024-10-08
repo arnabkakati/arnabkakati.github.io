@@ -19,7 +19,7 @@ Department of Medical Biophysics, Temerty Faculty of Medicine <br>
 Univeristy of Toronto, Canada
 ### MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23]
 BRIC-Rajiv Gandhi Centre for Biotechnology <br>
-BRIC-Regional Centre for Biotechnology, India
+Affiliated to UNESCO-Regional Centre for Biotechnology, India
 ### BSc (hons) Microbiology [2018 -- 21]
 Bhaskaracharya College of Applied Sciences <br>
 University of Delhi, India <br> <br> <br>
