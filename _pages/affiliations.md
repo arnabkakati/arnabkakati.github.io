@@ -7,21 +7,21 @@ author_profile: false
 
 ## Educational background
 <img src="/images/logo-uoft.png"
-    width="50"
+    width="70"
     hspace="20"
-    align="center"> <span style="color:#2B547E">**PhD Medical Biophysics [2024 -- Present]**</span> <br>
+    align="left"> <span style="color:#2B547E">**PhD Medical Biophysics [2024 -- Present]**</span> <br>
     <span> Department of Medical Biophysics </span> <br>
     <span> Temerty Faculty of Medicine, Univeristy of Toronto, Canada </span> <br> <br>
 
 <img src="/images/logo_rgcb.png"
-    width="50"
+    width="70"
     hspace="20"
     align="left"> <span style="color:#2B547E">**MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23]**</span> <br>
     <span> BRIC-Rajiv Gandhi Centre for Biotechnology </span> <br>
     <span> Affiliated to UNESCO-Regional Centre for Biotechnology, India </span> <br> <br>
 
 <img src="/images/logo_du.png"
-    width="50"
+    width="70"
     hspace="20"
     align="left"> <span style="color:#2B547E">**BSc (hons) Microbiology [2018 -- 21]**</span> <br>
     <span> Bhaskaracharya College of Applied Sciences </span> <br>
