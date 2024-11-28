@@ -14,7 +14,7 @@ BRIC-Rajiv Gandhi Centre for Biotechnology <br>
 Affiliated to UNESCO-Regional Centre for Biotechnology, India <br> <br>
 <b style="color:#2B547E"> BSc (hons) Microbiology [2018 -- 21] </b> <br>
 Bhaskaracharya College of Applied Sciences <br>
-University of Delhi, India <br> <br> <br>
+University of Delhi, India <br> <br>
 
 ## Research Experiences
 <img src="/images/logo-iitd-new.png"
@@ -22,8 +22,7 @@ University of Delhi, India <br> <br> <br>
     hspace="20"
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [Nov 2023 -- Jul 2024]**</span> <br>
     <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat P. Kalra </span> <br>
-
-Here, I worked on a computational project to study triplet-state electronic energy migration in cytoskeletal protein polymers (microtubules, actin and intermediate filaments) via short-range Dexter Energy Transfer (DET).
+    <span> Here, I worked on a computational project to study triplet-state electronic energy migration in cytoskeletal protein polymers (microtubules, actin and intermediate filaments) via short-range Dexter Energy Transfer (DET). </span>
 <br><br>
 
 <img src="/images/logo_rgcb.png"
