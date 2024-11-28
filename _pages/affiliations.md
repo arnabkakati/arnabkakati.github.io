@@ -1,6 +1,6 @@
 ---
 title: "Education and Experience"
-permalink: /experience/
+permalink: /affiliations/
 author_profile: false
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
