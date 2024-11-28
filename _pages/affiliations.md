@@ -6,13 +6,13 @@ author_profile: false
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ## Educational background
-### PhD Medical Biophysics [2024 -- Present]
+<b style="color:#2B547E"> PhD Medical Biophysics [2024 -- Present] </b> <br>
 Department of Medical Biophysics <br>
-Temerty Faculty of Medicine, Univeristy of Toronto, Canada
-### MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23]
+Temerty Faculty of Medicine, Univeristy of Toronto, Canada <br> <br>
+<b style="color:#2B547E"> MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23] </b> <br>
 BRIC-Rajiv Gandhi Centre for Biotechnology <br>
-Affiliated to UNESCO-Regional Centre for Biotechnology, India
-### BSc (hons) Microbiology [2018 -- 21]
+Affiliated to UNESCO-Regional Centre for Biotechnology, India <br> <br>
+<b style="color:#2B547E"> BSc (hons) Microbiology [2018 -- 21] </b> <br>
 Bhaskaracharya College of Applied Sciences <br>
 University of Delhi, India <br> <br> <br>
 
