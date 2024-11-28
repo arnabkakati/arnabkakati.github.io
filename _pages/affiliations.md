@@ -6,15 +6,26 @@ author_profile: false
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 ## Educational background
-<b style="color:#2B547E"> PhD Medical Biophysics [2024 -- Present] </b> <br>
-Department of Medical Biophysics <br>
-Temerty Faculty of Medicine, Univeristy of Toronto, Canada <br> <br>
-<b style="color:#2B547E"> MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23] </b> <br>
-BRIC-Rajiv Gandhi Centre for Biotechnology <br>
-Affiliated to UNESCO-Regional Centre for Biotechnology, India <br> <br>
-<b style="color:#2B547E"> BSc (hons) Microbiology [2018 -- 21] </b> <br>
-Bhaskaracharya College of Applied Sciences <br>
-University of Delhi, India <br> <br>
+<img src="/images/logo-uoft.png"
+    width="50"
+    hspace="20"
+    align="left"> <span style="color:#2B547E">**PhD Medical Biophysics [2024 -- Present]**</span> <br>
+    <span> Department of Medical Biophysics </span> <br>
+    <span> Temerty Faculty of Medicine, Univeristy of Toronto, Canada </span> <br> <br>
+
+<img src="/images/logo_rgcb.png"
+    width="50"
+    hspace="20"
+    align="left"> <span style="color:#2B547E">**MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23]**</span> <br>
+    <span> BRIC-Rajiv Gandhi Centre for Biotechnology </span> <br>
+    <span> Affiliated to UNESCO-Regional Centre for Biotechnology, India </span> <br> <br>
+
+<img src="/images/logo_du.png"
+    width="50"
+    hspace="20"
+    align="left"> <span style="color:#2B547E">**BSc (hons) Microbiology [2018 -- 21]**</span> <br>
+    <span> Bhaskaracharya College of Applied Sciences </span> <br>
+    <span> University of Delhi, India </span> <br> <br>
 
 ## Research Experiences
 <img src="/images/logo-iitd-new.png"
@@ -22,6 +33,7 @@ University of Delhi, India <br> <br>
     hspace="20"
     align="left"> <span style="color:#2B547E">**Indian Institute of Technology (IIT) Delhi, India [Nov 2023 -- Jul 2024]**</span> <br>
     <span style="color:#2B547E"> Project Scientist | Centre for Biomedical Engineering | Supervisor: Dr. Aarat P. Kalra </span> <br>
+
 Here, I worked on a computational project to study triplet-state electronic energy migration in cytoskeletal protein polymers (microtubules, actin and intermediate filaments) via short-range Dexter Energy Transfer (DET).
 <br><br>
 
