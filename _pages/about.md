@@ -11,7 +11,7 @@ A brief description about who I am:
 * previously - project scientist at IIT Delhi and research associate at BMSIS
 * education - master's degree in biotechnology (specialized in genetic engineering)
 * reads fiction in the day, browses reddit at night (and listens to Zayn and Brent in between)
-* quite interested in discussing technology, history, and philosophy (w/ a cup of tea)
+* takes interest in learning technology, human history, and philosophy (w/ a cup of tea or coffee)
 
 ## Educational background
 ### PhD Medical Biophysics [2024 -- Present]
