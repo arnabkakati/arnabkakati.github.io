@@ -1,5 +1,5 @@
 ---
-title: "Education and Experience"
+title: "Affiliations"
 permalink: /affiliations/
 author_profile: false
 ---
