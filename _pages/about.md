@@ -5,13 +5,13 @@ author_profile: true
 
 ---
 <br>
-A brief(est) description about who I am:
-* (not a) science nerd attempting to understand the molecular basis of life and diseases
-* currently a graduate research fellow at the University of Toronto
-* previously worked as a project scientist at IIT-Delhi and research associate at BMSIS
-* graduated with a master's degree in biotechnology (spec. in genetic engineering)
-* reads fiction in the day, browses reddit at night (and listens to Zayn in between)
-* quite interested in discussing history, technology and philosophy (w/ a cup of tea)
+A brief description about who I am:
+* (not a) science nerd - but interested in studying the fundamentals of life (and diseases)
+* currently - graduate research fellow at the University of Toronto
+* previously - project scientist at IIT Delhi and research associate at BMSIS
+* education - master's degree in biotechnology (specialized in genetic engineering)
+* reads fiction in the day, browses reddit at night (and listens to Zayn and Brent in between)
+* quite interested in discussing technology, history, and philosophy (w/ a cup of tea)
 
 ## Educational background
 ### PhD Medical Biophysics [2024 -- Present]
