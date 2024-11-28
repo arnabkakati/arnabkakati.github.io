@@ -13,7 +13,7 @@ A brief description about who I am:
 * reads fiction in the day, browses reddit at night (and listens to Zayn and Brent in between)
 * takes interest in learning technology, human history, and philosophy (w/ a cup of tea or coffee)
 
-
+<br><br><br>
 
 <div style="margin-top: 50px;">
   <hr>
