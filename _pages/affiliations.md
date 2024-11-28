@@ -9,7 +9,7 @@ author_profile: false
 <img src="/images/logo-uoft.png"
     width="50"
     hspace="20"
-    align="left"> <span style="color:#2B547E">**PhD Medical Biophysics [2024 -- Present]**</span> <br>
+    align="center"> <span style="color:#2B547E">**PhD Medical Biophysics [2024 -- Present]**</span> <br>
     <span> Department of Medical Biophysics </span> <br>
     <span> Temerty Faculty of Medicine, Univeristy of Toronto, Canada </span> <br> <br>
 
