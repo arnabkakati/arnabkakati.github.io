@@ -1,12 +1,22 @@
 ---
-title: "Experience"
+title: "Education and Experience"
 permalink: /experience/
 author_profile: false
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-## Research Experiences
+## Educational background
+### PhD Medical Biophysics [2024 -- Present]
+Department of Medical Biophysics <br>
+Temerty Faculty of Medicine, Univeristy of Toronto, Canada
+### MSc Biotechnology (spec. in Genetic Engineering) [2021 -- 23]
+BRIC-Rajiv Gandhi Centre for Biotechnology <br>
+Affiliated to UNESCO-Regional Centre for Biotechnology, India
+### BSc (hons) Microbiology [2018 -- 21]
+Bhaskaracharya College of Applied Sciences <br>
+University of Delhi, India <br> <br> <br>
 
+## Research Experiences
 <img src="/images/logo-iitd-new.png"
     width="50"
     hspace="20"
