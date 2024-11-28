@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 A brief description about who I am:
-* (not a) science nerd - but studies life and diseases
+* (not a) science nerd - studies life and diseases
 * currently - graduate research fellow at the University of Toronto
 * previously - project scientist at IIT Delhi and research associate at BMSIS
 * education - master's degree in biotechnology (specialized in genetic engineering)
