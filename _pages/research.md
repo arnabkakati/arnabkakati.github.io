@@ -7,7 +7,7 @@ author_profile: false
 <style> .aligncenter {text-align: center;} </style>
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-### (Molecular Biology of Cancer | Radiobiology | Computational Biology)
+### (Cancer Biology | Radiation Biology | Quantum Biology)
 ------
 Cells, during the entirety of its lifetime, is subjected to a multitude of alterations, brought on by variable factors. These alterations, however, also fuels the ultimate propaganda of life – survival against death. Given 3.8 billion years of evolution (ref - Cooper GM. The Cell: A Molecular Approach), cells have eventually developed definite “modus operandi” to counteract the remorse of the changes that could endanger their own integrity. Nevertheless, sometimes the best-laid methods fall apart and cells are left with an oblivion that begs the question, do I survive or is this the end instead? <br>
 From a less-philosophical perspective, science has progressed far too ahead to put this oblivion into medical application. I, intend to do the same! <br>
