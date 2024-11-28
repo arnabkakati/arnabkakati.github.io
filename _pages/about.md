@@ -15,7 +15,7 @@ A brief description about who I am:
 
 
 
-<div style="position: relative; margin-top: 50px;">
+<div style="margin-top: 50px;">
   <hr>
   <img style="width:600px; display: block; margin: 0 auto;" src="/images/logos-new2.png" alt="Institute_Logos" />
 </div>
