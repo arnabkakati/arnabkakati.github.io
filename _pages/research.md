@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Interests"
 layout: single
 permalink: /research/
 author_profile: false
@@ -35,7 +35,7 @@ Owing to inevitable destiny or by unavoidable fate, DNA (the ‘multi-core’ in
 
 ------
 
-### <span style="color:#2B547E">**Photochemistry**</span>
+### <span style="color:#2B547E">**Photochemistry of Biomolecules**</span>
 <p class="aligncenter">
 <img src="/images/photochemistry.png"
     alt="centered image"
