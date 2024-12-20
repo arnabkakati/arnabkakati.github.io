@@ -28,6 +28,15 @@ author_profile: false
     <span> University of Delhi, INDIA </span> <br> <br>
 
 ## Research Experiences
+<img src="/images/logo_uhn.png"
+    width="50"
+    hspace="20"
+    align="left"> <span style="color:#2B547E">**University Health Network, CANADA (Dec 2024 -- Present)**</span> <br>
+    <span style="color:#2B547E"> PhD Student | Princess Margaret Cancer Centre | Supervisor: Dr. Vuk Stambolic </span> <br>
+
+Description coming soon...
+<br><br>
+
 <img src="/images/logo-iitd-new.png"
     width="50"
     hspace="20"
