@@ -52,7 +52,7 @@ For my master's dissertation thesis, I investigated the domain-specific role of 
     align="left"> <span style="color:#2B547E">**Blue Marble Space Institute of Science, UNITED STATES (Jun 2021 -- Aug 2021)**</span> <br>
     <span style="color:#2B547E"> Research Associate | University of Maryland | Supervisor: Dr. Shiladitya DasSarma </span> <br>
 
-I was selected for the Young Scientist Program of BMSIS to work on a bioinformatics project to validate the purple earth hypothesis thorugh phylogenetic analysis of the photopigment retinal, and check its emergence across other domains of life as well.
+I was selected for the Young Scientist Program of BMSIS to work on a bioinformatics project to validate the purple earth hypothesis thorugh phylogenetic analysis of the photopigment retinal, and check its emergence across other domains of life.
 <br><br>
 
 ## Internship Experiences
