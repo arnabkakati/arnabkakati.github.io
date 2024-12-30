@@ -4,6 +4,8 @@ main:
     url: /research/
   - title: "Affiliations"
     url: /affiliations/
+  - title: "Publications"
+    url: /publications/
   - title: "Photographs"
     url: /photograph/
 
